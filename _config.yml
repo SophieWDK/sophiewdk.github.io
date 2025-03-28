@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Assignment 2 Project (02806 Social data analysis and visualization)
+title: 02806 Social data analysis and visualization
 email: s194384@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Assignment 2 : Social Data Analysis and Visualization
+  Assignment 2 
   <br/>
   Created by: 
   <br/>
