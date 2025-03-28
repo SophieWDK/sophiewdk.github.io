@@ -23,7 +23,13 @@ email: s194384@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Assignment 2 : Social Data Analysis and Visualization
   <br/>
-  Created by: Clara Mejlhede Lorenzen - s180350 \n Pol Triquell Lombardo - s243271 \n Marie Sophie Mudge Woods - s194384
+  Created by: 
+  <br/>
+  Clara Mejlhede Lorenzen - s180350 
+  <br/>
+  Pol Triquell Lombardo - s243271 
+  <br/>
+  Marie Sophie Mudge Woods - s194384
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sophiewdk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sophiewdk
