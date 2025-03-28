@@ -26,7 +26,7 @@ While citywide crime dropped 42% since 2014, this neighborhood stubbornly mainta
 *(Interactive Bokeh dashboard comparing Tenderloin vs citywide crime trends 2003-2025)*  
 
 **Toggle between crime categories and watch the patterns emerge:**  
-- **Violent crimes per capita** are actually **lower** than South of Market (0.8 vs 1.2 incidents/100 residents)  
+- **Violent crimes per capital** are actually **lower** than South of Market (0.8 vs 1.2 incidents/100 residents)  
 - But **quality-of-life offenses** (public intoxication, drug paraphernalia) are **400% higher** than city average  
 - The real shock? **Larceny rates** are **lower** than Union Square's shopping district  
 
