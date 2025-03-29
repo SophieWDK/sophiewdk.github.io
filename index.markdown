@@ -55,7 +55,7 @@ Furthermore, it is evident that changes have occurred in the **Southern** distri
 
 ## **Interactive Exploration: Crime by Category**  
 
-Finally, let’s explore the distribution of different crime types interactively.  
+We will now explore the distribution of different crime types interactively.  
 
 *(Embed a Bokeh interactive plot—e.g., a bar chart or scatter plot where users can filter by crime category, year, or district)*  
 
