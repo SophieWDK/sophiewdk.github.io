@@ -23,7 +23,7 @@ Our first visualization shows the total number of reported crimes per year from 
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="figures/crimes_trend.png" style="width: 100%">
+    <img src="figures/crimes_trend.png" style="width: 150%">
 </div>
 
 ```python 
