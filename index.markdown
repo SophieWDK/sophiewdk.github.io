@@ -14,9 +14,9 @@ This data story will explore how the crime rates have changes over time. Where c
 
 ## **Crime Trends Over Time**
 
-- *The Great Displacement*: While overall crime dropped 28% since 2006, this represents geographic shifting rather than elimination. As policing intensified in traditional hotspots (Union Square, Tenderloin), criminal activity migrated to new areas (SoMa, Mission Bay).
+While overall crime dropped 28% since 2006, this represents geographic shifting rather than elimination. As policing intensified in traditional hotspots (Union Square, Tenderloin), criminal activity migrated to new areas (SoMa, Mission Bay).
   
-- *The Professionalization Effect*: Modern criminals have adapted to tech-era opportunities. The 400% increase in catalytic converter thefts (2020-2024) and organized retail theft rings demonstrate sophisticated, profit-driven operations.
+Modern criminals have adapted to tech-era opportunities. The 400% increase in catalytic converter thefts (2020-2024) and organized retail theft rings demonstrate sophisticated, profit-driven operations.
 
 To analyze how crime rates have evolved over the years, we begin with an overview in the plot below. This visualization displays the total number of reported crimes per year from 2003 to 2025, highlighting the year with the highest recorded incidents for each crime category.
 
@@ -30,22 +30,24 @@ To delve deeper, the next plot visualizes the total number of recorded crimes, e
     <img src="figures/total_crimes.png" style="width: 100%">
 </div>
 
-With these observations we can see that crimes (like larceny theft) dominate, while violent crimes (like weapon laws or vandalism) remain relatively stable. We can see that a sharp decline in the recorded crimes occurs post-2014. This could possibly be due to the increased policing strategies or changes in reporting.
+
+With these observations, we see that non-violent crimes, such as larceny and theft, dominate the overall crime landscape, while violent crimes, including weapon-related offenses and vandalism, remain relatively stable. A sharp decline in recorded crimes is noticeable after 2014, which could be attributed to increased policing strategies or changes in crime reporting methods.
+
+Given that larceny and theft make up a significant portion of crimes in San Francisco, we have decided to examine this category more closely.
 
 ---
 
 ## **Crime Hotspots**  
 
-Next, we map the density of crimes across San Francisco.  
+To identify key hotspots for larceny and theft in San Francisco, we visualize the density of these crimes across different districts. The heatmap below, covering the years 2003–2025, highlights distinct patterns, with three areas **Central**, **Northern**, and **Southern** standing out as the most affected by these crimes.
+
+It is striking how significantly crime rates in these hotspots differ from other areas, where incidents remain relatively low.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="figures/heatmap_years.png" style="width: 100%">
 </div>
 
-**Key Findings:**  
-- **Downtown (Tenderloin, Union Square, Market St.)** has the highest concentration of incidents.  
-- **Residential neighborhoods (Sunset, Richmond)** see fewer reports.  
-- Some clusters align with nightlife areas (Mission District) and transit hubs (Civic Center BART).  
+Furthermore, it is evident that changes have occurred in the **Southern** district, as the recorded crime rates of "Larceny/Theft" have noticeably declined since 2017.
 
 ---
 
