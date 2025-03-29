@@ -14,21 +14,17 @@ This data story will explore how the crime rates have changes over time. Where c
 
 ## **Crime Trends Over Time**
 
-Our first visualization shows the total number of reported crimes per year from 2003 to 2025.
-
-*(Insert time-series line chart or bar chart here)*
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="figures/total_crimes.png" style="width: 100%">
-</div>
+To analyze how crime rates have evolved over the years, we begin with an overview in the plot below. This visualization displays the total number of reported crimes per year from 2003 to 2025, highlighting the year with the highest recorded incidents for each crime category.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="figures/crimes_trend.png" style="width: 150%">
 </div>
 
-```python 
-your_code = do_some_stuff
-```
+To delve deeper, the next plot visualizes the total number of recorded crimes, emphasizing how "Larceny/Theft" stands out as a significant contributor.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="figures/total_crimes.png" style="width: 100%">
+</div>
 
 
 
