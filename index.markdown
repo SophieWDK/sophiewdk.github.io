@@ -47,6 +47,7 @@ It is striking how significantly crime rates in these hotspots differ from other
     <img src="figures/heatmap_years.png" style="width: 100%">
 </div>
 
+Furthermore, it is evident that changes have occurred in the **Southern** district, as the recorded crime rates of "Larceny/Theft" have noticeably declined since 2017.
 
 ---
 
