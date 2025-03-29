@@ -24,7 +24,9 @@ To analyze how crime rates have evolved over the years, we begin with an overvie
     <img src="figures/crimes_trend.png" style="width: 150%">
 </div>
 
-To delve deeper, the next plot visualizes the total number of recorded crimes, emphasizing how "Larceny/Theft" stands out as a significant contributor.
+From the graph, we can see that most crimes peak between 1,000 and 11,000 recorded incidents in their most widespread year. However, Larceny/Theft stands out significantly, reaching 47,714 reported cases in its highest year.
+
+To explore this further, the next plot visualizes the total number of recorded crimes, highlighting the dominance of Larceny/Theft as a major contributor.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="figures/total_crimes.png" style="width: 100%">
