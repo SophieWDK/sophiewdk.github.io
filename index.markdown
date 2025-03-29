@@ -10,14 +10,9 @@ title: Home
 
 San Francisco is a vibrant city known for its tech industry, cultural landmarks, and scenic beauty. However, like any major urban area, it also faces challenges with crime. Using the [SFPD Crime Incident Reporting dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783), we can analyze crime trends over a 22-year period (2003-2025) to uncover patterns, hotspots, and shifts in criminal activity.
 
-This data story explores:
-- **How crime rates have changed over time**
-- **Where crimes are most concentrated**
-- **Which types of crimes are most frequent**
+This data story will explore how the crime rates have changes over time. Where crimes are more concentrated and which type of crimes are most frequent in the "troubled" districts. 
 
-Let’s dive in.
-
-## **1. Crime Trends Over Time**
+## **Crime Trends Over Time**
 
 Our first visualization shows the total number of reported crimes per year from 2003 to 2025.
 
