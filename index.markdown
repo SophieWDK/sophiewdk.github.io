@@ -30,9 +30,7 @@ To delve deeper, the next plot visualizes the total number of recorded crimes, e
     <img src="figures/total_crimes.png" style="width: 100%">
 </div>
 
-With these observations we can see that crime peaked around **2006-2008**, coinciding with economic instability before the Great Recession.
-- A sharp **decline occurs post-2014**, possibly due to increased policing strategies or changes in reporting.
-- Certain crimes (like larceny theft) dominate, while violent crimes (like assault) remain relatively stable.
+With these observations we can see that crimes (like larceny theft) dominate, while violent crimes (like weapon laws or vandalism) remain relatively stable. We can see that a sharp decline in the recorded crimes occurs post-2014. This could possibly be due to the increased policing strategies or changes in reporting.
 
 ---
 
