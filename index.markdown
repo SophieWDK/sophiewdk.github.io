@@ -6,17 +6,7 @@ layout: default
 title: Home
 ---
 
-# **San Francisco Crime Trends: Twenty-Two Years of Data (2003-2024)**
-
-### **Group 27 Members :**
-
-- Clara Mejlhede Lorenzen, s180350
-- Pol Triquell Lombardo, s243271
-- Marie Sophie Mudge Woods, s194384
-
----
-
-## **Introduction**
+# **Crimes in San Francisco: Areas under change**
 
 San Francisco is a vibrant city known for its tech industry, cultural landmarks, and scenic beauty. However, like any major urban area, it also faces challenges with crime. Using the [SFPD Crime Incident Reporting dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783), we can analyze crime trends over a 22-year period (2003-2025) to uncover patterns, hotspots, and shifts in criminal activity.
 
