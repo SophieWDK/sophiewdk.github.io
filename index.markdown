@@ -19,11 +19,11 @@ Our first visualization shows the total number of reported crimes per year from 
 *(Insert time-series line chart or bar chart here)*
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="figures/total_reported_crimes.png" style="width: 100%">
+    <img src="figures/total_crimes.png" style="width: 100%">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="figures/category_crimes_trend.png" style="width: 100%">
+    <img src="figures/crimes_trend.png" style="width: 100%">
 </div>
 
 ```python 
@@ -39,11 +39,13 @@ your_code = do_some_stuff
 
 ---
 
-## **2. Mapping Crime Hotspots**  
+## **Crime Hotspots**  
 
 Next, we map the density of crimes across San Francisco.  
 
-*(Insert a heatmap or point-based map of crime locations)*  
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="figures/heatmap_years.png" style="width: 100%">
+</div>
 
 **Key Findings:**  
 - **Downtown (Tenderloin, Union Square, Market St.)** has the highest concentration of incidents.  
@@ -52,7 +54,7 @@ Next, we map the density of crimes across San Francisco.
 
 ---
 
-## **3. Interactive Exploration: Crime by Category**  
+## **Interactive Exploration: Crime by Category**  
 
 Finally, let’s explore the distribution of different crime types interactively.  
 
