@@ -6,7 +6,7 @@ layout: default
 title: Home
 ---
 
-# **The Tenderloin Paradox: How SF's Most Notorious Neighborhood Defies Crime Trends**  
+# **The Tenderloin Paradox: How SF's Most Notorious Neighbourhood Defies Crime Trends**  
 
 By Group 27 Members :
 - Clara Mejlhede Lorenzen, s180350
@@ -15,9 +15,9 @@ By Group 27 Members :
 
 ## **A Neighborhood That Shouldn't Exist**  
 
-At the corner of Eddy and Taylor Streets, a curious phenomenon unfolds daily. Tourists clutching maps glance nervously at their surroundings, while locals move with practiced ease. This is the Tenderloin - San Francisco's 50-block paradox.  
+At the corner of Eddy and Taylor Streets, a curious phenomenon unfolds daily. Tourists clutching maps glance nervously at their surroundings, while locals move with practised ease. This is the Tenderloin - San Francisco's 50-block paradox.  
 
-While citywide crime dropped 42% since 2014, this neighborhood stubbornly maintains its reputation. But the SFPD crime data (2003-2025) reveals something startling: **the Tenderloin isn't what you think it is**.
+While citywide crime dropped 42% since 2014, this neighbourhood stubbornly maintains its reputation. But the SFPD crime data (2003-2025) reveals something startling: **the Tenderloin isn't what you think it is**.
 
 
 
@@ -27,17 +27,21 @@ While citywide crime dropped 42% since 2014, this neighborhood stubbornly mainta
 
 **Toggle between crime categories and watch the patterns emerge:**  
 - **Violent crimes per capital** are actually **lower** than South of Market (0.8 vs 1.2 incidents/100 residents)  
-- But **quality-of-life offenses** (public intoxication, drug paraphernalia) are **400% higher** than city average  
+- But **quality-of-life offens** (public intoxication, drug paraphernalia) are **400% higher** than city average  
 - The real shock? **Larceny rates** are **lower** than Union Square's shopping district  
 
 **Why this matters:**  
-The Tenderloin's visibility creates a perception gap. While 72% of incidents are non-violent (2018-2023 data), their public nature skews perception.  
+The Tenderloin's visibility creates a perception gap. While 72% of incidents are non-violent (2018-2023 data), their public nature skews perception.
 
 
 
 ## **2. The 6AM Shift Change**  
 
-*(Heatmap of crime by hour in Tenderloin vs downtown)*  
+*(Heatmap of crime by hour in Tenderloin vs downtown)*
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="figures/heatmap.png" style="width: 100%">
+</div>
 
 **Three distinct daily patterns emerge:**  
 1. **9PM-2AM**: Drug-related incidents peak (87% of midnight arrests)  
@@ -56,7 +60,7 @@ The 200+ social service agencies clustered here (Urban Institute 2022 report) cr
 **Watch what happens as tech offices expand:**  
 - 2014: Drug incidents **concentrate** near 6th St as Mid-Market develops  
 - 2018: Vehicle break-ins **increase 220%** near new apartment buildings  
-- 2023: A curious **"donut hole"** forms - violent crime decreases in central Tenderloin while increasing at edges  
+- 2023: A curious **"doughnut hole"** forms - violent crime decreases in central Tenderloin while increasing at edges  
 
 **The Irony:**  
 Improved street lighting and policing in gentrifying areas simply **displaced** certain crimes rather than eliminating them (SFSU Urban Studies 2023).  
