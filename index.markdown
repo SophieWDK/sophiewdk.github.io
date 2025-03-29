@@ -35,7 +35,7 @@ To explore this further, the next plot visualizes the total number of recorded c
 
 With these observations, we see that non-violent crimes, such as larceny and theft, dominate the overall crime landscape, while violent crimes, including weapon-related offenses and vandalism, remain relatively stable. A sharp decline in recorded crimes is noticeable after 2014, which could be attributed to increased policing strategies or changes in crime reporting methods.
 
-Given that larceny and theft make up a significant portion of crimes in San Francisco, we have decided to examine this category more closely.
+When comparing **Larceny/Theft** to the total number of crimes and the annual average, it accounts for a substantial percentage of overall incidents. Given its significant presence in San Francisco, we have chosen to investigate this category in greater detail.
 
 ---
 
