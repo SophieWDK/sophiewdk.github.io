@@ -57,6 +57,12 @@ Furthermore, it is evident that changes have occurred in the **Southern** distri
 
 We will now explore the distribution of different crime types interactively.  
 
+<script>
+fetch('/html_templates/bokeh_hourly_sf_crime_patterns.html')
+    .then(function(response) { return response.json() })
+    .then(function(item) { return Bokeh.embed.embed_item(item) })
+</script>
+
 *(Embed a Bokeh interactive plot—e.g., a bar chart or scatter plot where users can filter by crime category, year, or district)*  
 
 
