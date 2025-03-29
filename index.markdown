@@ -121,7 +121,7 @@ As Tenderloin Station Captain Carlos Velasquez told us: "Our crime stats look te
 
 
 
-# **San Francisco Crime Trends: A Decade of Data (2003-2024)**
+# **San Francisco Crime Trends: Twenty-Two Years of Data (2003-2024)**
 
 ### **Group 27 Members :**
 
@@ -135,7 +135,7 @@ Marie Sophie Mudge Woods, s194384
 
 ## **Introduction**
 
-San Francisco is a vibrant city known for its tech industry, cultural landmarks, and scenic beauty. However, like any major urban area, it also faces challenges with crime. Using the [SFPD Crime Incident Reporting dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783), we can analyze crime trends over a 21-year period (2003-2024) to uncover patterns, hotspots, and shifts in criminal activity.
+San Francisco is a vibrant city known for its tech industry, cultural landmarks, and scenic beauty. However, like any major urban area, it also faces challenges with crime. Using the [SFPD Crime Incident Reporting dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783), we can analyze crime trends over a 22-year period (2003-2025) to uncover patterns, hotspots, and shifts in criminal activity.
 
 This data story explores:
 - **How crime rates have changed over time**
@@ -144,17 +144,25 @@ This data story explores:
 
 Let’s dive in.
 
----
-
 ## **1. Crime Trends Over Time**
 
-Our first visualization shows the total number of reported crimes per year from 2003 to 2024.
+Our first visualization shows the total number of reported crimes per year from 2003 to 2025.
 
 *(Insert time-series line chart or bar chart here)*
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="figures/total_reported_crimes.png" style="width: 100%">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="figures/category_crimes_trend.png" style="width: 100%">
+</div>
 
 ```python 
 your_code = do_some_stuff
 ```
+
+
 
 **Key Observations:**
 - Crime peaked around **2006-2008**, coinciding with economic instability before the Great Recession.
@@ -197,10 +205,3 @@ Crime in San Francisco has evolved over the years, with notable declines in cert
 - [San Francisco Chronicle: Crime Trends Analysis](https://www.sfchronicle.com)
 
 *(Code and data available on [GitHub](your-repo-link))*
-
----
-
-### **Technical Notes**
-- Built with Python (Pandas, Matplotlib, Folium, Bokeh).
-- Data cleaned to remove incomplete entries.
-- All visualizations use consistent color schemes (e.g., `#1f77b4` for primary data).
