@@ -54,9 +54,16 @@ Crime hotspots are not static. As police efforts ramp up in certain areas, crime
 
 ### **When is San Francisco Most Unsafe?**
 
-Beyond where crime occurs, understanding when it happens is equally critical. Criminal activity in San Francisco follows distinct temporal patterns, with different crime types peaking at different hours of the day. The visualization below explores these daily rhythms, offering key insights into when the city is most vulnerable to various offenses.
+We will now explore the distribution of different crime types interactively. 
 
-{% include_relative html_templates/bokeh_hourly_sf_crime_patterns.html %}
+This visualization is not just a chart—it is a temporal fingerprint of criminal activity across San Francisco. By normalizing crime frequencies across categories, we uncover striking patterns that challenge conventional wisdom:
+
+<div style="display: flex; justify-content: center;">
+  <div style="width: auto;">
+    {% include_relative html_templates/bokeh_hourly_sf_crime_patterns.html %}
+  </div>
+</div>
+
 
 - Midday Danger: Despite common fears of late-night crime, the most frequent time for larceny and theft is actually around noon—when crowds are thickest in commercial districts.
 - Twilight Crime Surge: Violent crimes tend to increase between 5 PM and 8 PM, coinciding with rush hour and increased pedestrian traffic.
