@@ -53,13 +53,9 @@ Furthermore, it is evident that changes have occurred in the **Southern** distri
 
 ---
 
-## **Interactive Exploration: Crime by Category**
+### **At what hour is it safe in San Fransisco?**
 
 We will now explore the distribution of different crime types interactively. 
-
-### *The Hidden Rhythms of Crime: What Hourly Patterns Reveal About SF's Safety*
-
-**Decoding the Crime Clock**
 
 This visualization is not just a chart—it is a temporal fingerprint of criminal activity across San Francisco. By normalizing crime frequencies across categories, we uncover striking patterns that challenge conventional wisdom:
 
@@ -86,29 +82,6 @@ The implications reach far beyond police work. Urban planners can time street li
 
 As you explore the interactive visualization, notice how each crime category maintains its own distinct rhythm. The sobering reality? San Francisco's criminal element never sleeps—it just changes shifts.
 
-
-# From here on I'd delete everything and we can build up on that maybe?
-
-### *Policy Implications*
-
-1. *Precision Patrol Scheduling*  
-   - Align police shifts with actual crime peaks (not traditional 9-5)  
-   - Example: Larceny units should focus on midday and night hours.
-
-2. *Infrastructure Timing*  
-   - Adjust BART station staffing to match robbery patterns.
-   - Coordinate street cleaning with vandalism-prone hours
-
-
-## **Conclusion**
-
-Crime in San Francisco has evolved over the years, with notable declines in certain categories post-2014. However, hotspots remain in high-traffic urban centers. Understanding these patterns helps policymakers and residents address safety concerns more effectively.
-
-**Further Reading:**
-- [SFPD Crime Data Dashboard](https://data.sfgov.org/Public-Safety)
-- [San Francisco Chronicle: Crime Trends Analysis](https://www.sfchronicle.com)
-
-*(Code and data available on [GitHub](https://github.com/SophieWDK/sophiewdk.github.io))*
 
 #### Behind-The-Scenes Notebook
 
