@@ -10,15 +10,19 @@ title: Home
 
 San Francisco, a city celebrated for its technological innovation and cultural vibrancy, has long grappled with crime challenges that evolve alongside its urban landscape. From property crimes in tourist-heavy districts to organized retail thefts, criminal activity has continuously shifted over the years.
 
-Using the [SFPD Crime Incident Reporting dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783), this analysis delves into how crime trends have changed over a 22-year period (2003-2025). Through three key visualizations, we will explore:
+This analysis uses official crime records from the [San Francisco Police Department](https://www.sanfranciscopolice.org/your-sfpd/crime-data-reports) (SFPD), covering **January 2003 to January 2025** with over 2.5 million incidents. The dataset comes from [SF OpenData](https://datasf.org/opendata/), the city's official data portal, and includes:
+
+- **Crime categories**: Larceny, assault, burglary, drug offens, etc.
+- **Temporal data**: Exact dates and times of reports.
+- **Location details**: Police district and geographic coordinates.
+
+Taking all this information into account, through three key visualizations, we will explore:
 
 - The overall trend in crime rates over time.
 - The geographic concentration of criminal activity.
 - The daily rhythms of crime in San Francisco.
 
 These insights will help us understand how crime has adapted to changing law enforcement strategies, economic conditions, and urban development.
-
----
 
 ## **Crime Trends Over Time**
 
@@ -67,21 +71,24 @@ This visualization is not just a chart—it is a temporal fingerprint of crimina
 <b> </b>
 <b> </b>
 
-**Here we observe**
+**Observations from the plot**
 - Midday Danger: Despite common fears of late-night crime, the most frequent time for larceny and theft is actually around noon—when crowds are thickest in commercial districts.
 - Twilight Crime Surge: Violent crimes tend to increase between 5 PM and 8 PM, coinciding with rush hour and increased pedestrian traffic.
-- Night Shift Offenders: Drug-related offenses and violent crimes peak between 8 PM and 11 PM, but taper off by early morning.
+- Night Shift Offenders: Drug-related offens and violent crimes peak between 8 PM and 11 PM, but taper off by early morning.
 
 These patterns reveal how different types of crime operate on distinct schedules. According to **Officer Mark Chen** of the SFPD's Crime Analysis Unit, *"The criminal workday begins when yours ends. We see larceny specialists working the eating rush while drug dealers take the night shift."*
 
 Business owners have adapted to these patterns as well. **Maria Gutierrez**, owner of a Mission District bodega, shared her experience: "I used to worry about midnight break-ins, but now I board up at 3 PM—that's when burglars start looking for empty apartments."
 
-By analyzing these crime patterns, businesses can adjust security measures, residents can make informed decisions, and urban planners can optimize safety strategies. The data-driven approach to crime prevention allows for smarter policing and more proactive community engagement.
-
----
+By analysing these crime patterns, businesses can adjust security measures, residents can make informed decisions, and urban planners can optimize safety strategies. The data-driven approach to crime prevention allows for smarter policing and more proactive community engagement.
 
 ### **A City in Flux**
 
 Crime in San Francisco is far from static. While overall crime has declined over the past two decades, it has shifted locations, changed tactics, and evolved with the times. Larceny remains the dominant crime, peaking in busy districts at midday, while violent crimes follow a more nocturnal rhythm.
 
 Understanding these patterns is crucial not just for law enforcement but for city planners, businesses, and residents who want to stay ahead of emerging crime trends. By leveraging historical data, we can make San Francisco safer and more resilient in the face of its ever-changing urban challenges.
+
+### Behind-The-Scenes Notebook
+
+This webpage is a project built upon extensive research, data analysis, and coding.
+Click the following link to explore a detailed interactive notebook that offers a behind-the-scenes look: [View the notebook](https://github.com/SophieWDK/sophiewdk.github.io/blob/main/data_analysis/behind_the_scenes_notebook.ipynb).
