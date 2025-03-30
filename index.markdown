@@ -80,11 +80,11 @@ This visualization is not just a chart—it is a temporal fingerprint of crimina
 - Twilight Crime Surge: Violent crimes tend to increase between 5 PM and 8 PM, coinciding with rush hour and increased pedestrian traffic.
 - Night Shift Offenders: Drug-related offens and violent crimes peak between 8 PM and 11 PM, but taper off by early morning.
 
-These patterns reveal how different types of crime operate on distinct schedules. According to **Officer Mark Chen** of the SFPD's Crime Analysis Unit, *"The criminal workday begins when yours ends. We see larceny specialists working the eating rush while drug dealers take the night shift."*
+These patterns reveal how different types of crime operate on distinct schedules. According to a 2024 report from the [San Francisco Police Department Crime Analysis Unit]{https://www.sanfranciscopolice.org/sites/default/files/2024-10/SFPD_CrimeReport_Sept2024_20241015.pdf}, organized larceny groups tend to target high-traffic areas during midday hours, while violent crimes such as assaults peak during evening hours. A study by [the Public Policy Institute of California]{https://www.ppic.org/publication/crime-trends-in-california/?utm_source=chatgpt.com} also confirms that urban crime tends to follow predictable daily patterns, influenced by foot traffic and economic activity.
 
-Business owners have adapted to these patterns as well. **Maria Gutierrez**, owner of a Mission District bodega, shared her experience: "I used to worry about midnight break-ins, but now I board up at 3 PM—that's when burglars start looking for empty apartments."
+[Business owners in crime-prone areas have had to adapt]{https://nypost.com/2024/12/12/business/safeway-to-shut-down-san-francisco-supermarket-due-to-rampant-theft/?utm_source=chatgpt.com}. Many now implement additional security measures during peak crime hours, such as restricting entry in the afternoon or adding security personnel during high-risk evening periods. These adaptations align with the broader trend of businesses taking proactive steps to deter criminal activity.
 
-By analysing these crime patterns, businesses can adjust security measures, residents can make informed decisions, and urban planners can optimize safety strategies. The data-driven approach to crime prevention allows for smarter policing and more proactive community engagement.
+By analyzing these crime patterns, businesses can adjust security measures, residents can make informed decisions, and urban planners can optimize safety strategies. The data-driven approach to crime prevention allows for smarter policing and more proactive community engagement.
 
 ### **A City in Flux**
 
