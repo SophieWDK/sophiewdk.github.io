@@ -64,7 +64,10 @@ This visualization is not just a chart—it is a temporal fingerprint of crimina
   </div>
 </div>
 
+<b> </b>
+<b> </b>
 
+**Here we observe**
 - Midday Danger: Despite common fears of late-night crime, the most frequent time for larceny and theft is actually around noon—when crowds are thickest in commercial districts.
 - Twilight Crime Surge: Violent crimes tend to increase between 5 PM and 8 PM, coinciding with rush hour and increased pedestrian traffic.
 - Night Shift Offenders: Drug-related offenses and violent crimes peak between 8 PM and 11 PM, but taper off by early morning.
@@ -82,9 +85,3 @@ By analyzing these crime patterns, businesses can adjust security measures, resi
 Crime in San Francisco is far from static. While overall crime has declined over the past two decades, it has shifted locations, changed tactics, and evolved with the times. Larceny remains the dominant crime, peaking in busy districts at midday, while violent crimes follow a more nocturnal rhythm.
 
 Understanding these patterns is crucial not just for law enforcement but for city planners, businesses, and residents who want to stay ahead of emerging crime trends. By leveraging historical data, we can make San Francisco safer and more resilient in the face of its ever-changing urban challenges.
-
-
-#### Behind-The-Scenes Notebook
-
-This webpage is a project built upon extensive research, data analysis, and coding. It is designed to be easily accessible and reproducible, allowing others to explore the findings and methodologies behind the analysis.
-Click the following link to explore a detailed interactive notebook that offers a behind-the-scenes look: [View the notebook](https://github.com/SophieWDK/sophiewdk.github.io/blob/main/data_analysis/behind_the_scenes_notebook.ipynb).
