@@ -28,9 +28,9 @@ These insights will help us understand how crime has adapted to changing law enf
 
 [comment]: <> (Crime in San Francisco has undergone a noticeable shift in recent years. While overall crime dropped 28% since 2006, this decline masks a significant geographical redistribution. Traditional hotspots such as **Union Square** and **Tenderloin** saw intensified policing efforts, pushing criminal activity into newer areas such as **SoMa** and **Mission Bay**.) 
 
-Another notable shift is the adaptation of criminals to technological and economic changes. The rise of organized retail theft rings and a 400% increase in catalytic converter thefts (2020-2024) illustrate how modern crime has evolved to exploit new vulnerabilities.
+[comment]: <> (Another notable shift is the adaptation of criminals to technological and economic changes. The rise of organized retail theft rings and a 400% increase in catalytic converter thefts (2020-2024) illustrate how modern crime has evolved to exploit new vulnerabilities.)
 
-The visualization below presents the total number of reported crimes per year from 2003 to 2025, identifying peak years for major crime categories.
+The visualization below presents the total number of reported crimes per year from 2003 to 2025, identifying peak years for major crime categories. The y-axes are the crime count and they have different indices.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="figures/crimes_trend.png" style="width: 150%">
@@ -38,7 +38,11 @@ The visualization below presents the total number of reported crimes per year fr
 
 From this, we observe that non-violent crimes, such as **Larceny/Theft**, dominate the crime landscape, with peaks reaching nearly 48,000 reported cases in a single year. In contrast, violent crimes, including **weapon-related offenses** and **vandalism**, have remained relatively stable over the years.
 
-A sharp decline in recorded crimes is evident after 2014, which may be attributed to increased policing strategies or c hanges in crime reporting methods. However, rather than eliminating crime, these shifts have merely displaced it geographically and altered its nature.
+It is worth noticing a huge drop in **vehicle theft** after 2005. According to [this article](https://www.eastbaytimes.com/2007/02/16/car-thefts-decrease-statewide/); "law enforcement officers across the state have employed new technologies to fight car theft." That could be an explanation for the drop and the reason why the drop has been stable since.
+
+Another observation worth noticing is how the corona pandemic in 2020 may have influenced the different kinds of crimes. There is a huge drop in **theft** but a big rice in **burglary** for instance.
+
+A sharp decline in recorded crimes is evident after 2014, which may be attributed to increased policing strategies or changes in crime reporting methods. However, rather than eliminating crime, these shifts have merely displaced it geographically and altered its nature.
 
 ---
 
@@ -50,7 +54,7 @@ To identify key hotspots for crime, particularly **Larceny/Theft**, we examine a
     <img src="figures/heatmap_years.png" style="width: 100%">
 </div>
 
-Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area.
+Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area. [Another explanation for the drastically decrease in theft could be that in 2015 San Francisco Police Department opened a new Public Safety Building in the district](https://www.sanfranciscopolice.org/stations/southern-station)
 
 Crime hotspots are not static. As police efforts ramp up in certain areas, crime often relocates to regions with less oversight. The emergence of new retail and residential developments in SoMa and Mission Bay may also be influencing crime patterns, making hotspot tracking an essential tool for both law enforcement and urban planners.
 
