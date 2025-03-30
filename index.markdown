@@ -55,15 +55,18 @@ Furthermore, it is evident that changes have occurred in the **Southern** distri
 
 ## **Interactive Exploration: Crime by Category**
 
-We will now explore the distribution of different crime types interactively. 
-
 ### *The Hidden Rhythms of Crime: What Hourly Patterns Reveal About SF's Safety*
 
 **Decoding the Crime Clock**
 
 This visualization is not just a chart—it is a temporal fingerprint of criminal activity across San Francisco. By normalizing crime frequencies across categories, we uncover striking patterns that challenge conventional wisdom:
 
-{% include_relative html_templates/bokeh_hourly_sf_crime_patterns.html %}
+<div style="display: flex; justify-content: center;">
+  <div style="width: auto;">
+    {% include_relative html_templates/bokeh_hourly_sf_crime_patterns.html %}
+  </div>
+</div>
+
 
 **While tourists worry about midnight dangers, their wallets are most vulnerable at noon.** The data reveals a city where different crimes keep different hours, each following its own dark rhythm. Like workers clocking in for separate shifts, criminals operate on schedules that would surprise most residents.
 
