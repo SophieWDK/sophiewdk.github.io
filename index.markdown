@@ -26,7 +26,7 @@ These insights will help us understand how crime has adapted to changing law enf
 
 ## **Crime Trends Over Time**
 
-Crime in San Francisco has undergone a noticeable shift in recent years. While overall crime dropped 28% since 2006, this decline masks a significant geographical redistribution. Traditional hotspots such as **Union Square** and **Tenderloin** saw intensified policing efforts, pushing criminal activity into newer areas such as **SoMa** and **Mission Bay**.
+[comment]: <> (Crime in San Francisco has undergone a noticeable shift in recent years. While overall crime dropped 28% since 2006, this decline masks a significant geographical redistribution. Traditional hotspots such as **Union Square** and **Tenderloin** saw intensified policing efforts, pushing criminal activity into newer areas such as **SoMa** and **Mission Bay**.) 
 
 Another notable shift is the adaptation of criminals to technological and economic changes. The rise of organized retail theft rings and a 400% increase in catalytic converter thefts (2020-2024) illustrate how modern crime has evolved to exploit new vulnerabilities.
 
