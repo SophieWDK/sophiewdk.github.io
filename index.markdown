@@ -46,7 +46,7 @@ A sharp decline in recorded crimes is evident after 2014, which may be attribute
 
 ## **Where is Crime Concentrated**  
 
-To identify key hotspots for crime, particularly **Larceny/Theft**, since we just learned this is the leading crime in San Francisco. We examine a heatmap of recorded incidents across different districts from 2003 to 2025. [The heatmap](file:///C:/Users/Bruger/OneDrive%20-%20Danmarks%20Tekniske%20Universitet/Kandidat/Social%20Data%20Analysis%20and%20Visualization/sophiewdk.github.io/data_analysis/heatmap.html) shows that theft is happening all over the city but not at parks. It would be more interesting to have a further look at the changes in the different districts throughout the years. The visualization of a different kind of heatmap below highlights areas where theft is most concentrated.
+To identify key hotspots for crime, particularly **Larceny/Theft**, since we just learned this is the leading crime in San Francisco. We examine a heatmap of recorded incidents across different districts from 2003 to 2025. [The heatmap](https://sophiewdk.github.io/data_analysis/heatmap.html) shows that theft is happening all over the city but not at parks. It would be more interesting to have a further look at the changes in the different districts throughout the years. The visualization of a different kind of heatmap below highlights areas where theft is most concentrated.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="figures/heatmap_years.png" style="width: 100%">
