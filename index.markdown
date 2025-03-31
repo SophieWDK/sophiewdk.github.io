@@ -44,8 +44,6 @@ Another observation worth noticing is how the corona pandemic in 2020 may have i
 
 A sharp decline in recorded crimes is evident after 2014, which may be attributed to increased policing strategies or changes in crime reporting methods. However, rather than eliminating crime, these shifts have merely displaced it geographically and altered its nature.
 
----
-
 ## **Where is Crime Concentrated**  
 
 To identify key hotspots for crime, particularly **Larceny/Theft**, we examine a heatmap of recorded incidents across different districts from 2003 to 2025. The visualization below highlights areas where these crimes are most concentrated.
@@ -58,9 +56,7 @@ Three districts **Central**, **Northern**, and **Southern** stand out as the mos
 
 Crime hotspots are not static. As police efforts ramp up in certain areas, crime often relocates to regions with less oversight. The emergence of new retail and residential developments in SoMa and Mission Bay may also be influencing crime patterns, making hotspot tracking an essential tool for both law enforcement and urban planners.
 
----
-
-### **When is San Francisco Most Unsafe?**
+## **When is San Francisco Most Unsafe?**
 
 We will now explore the distribution of different crime types interactively. 
 
@@ -86,7 +82,7 @@ These patterns reveal how different types of crime operate on distinct schedules
 
 By analyzing these crime patterns, businesses can adjust security measures, residents can make informed decisions, and urban planners can optimize safety strategies. The data-driven approach to crime prevention allows for smarter policing and more proactive community engagement.
 
-### **A City in Flux**
+## **A City in Flux**
 
 Crime in San Francisco is far from static. While overall crime has declined over the past two decades, it has shifted locations, changed tactics, and evolved with the times. Larceny remains the dominant crime, peaking in busy districts at midday, while violent crimes follow a more nocturnal rhythm.
 
