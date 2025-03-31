@@ -38,7 +38,7 @@ The visualization below presents the total number of reported crimes per year fr
 
 From this, we observe that non-violent crimes, such as **Larceny/Theft**, dominate the crime landscape, with peaks reaching nearly 48,000 reported cases in a single year. In contrast, violent crimes, including **weapon-related offenses** and **vandalism**, have remained relatively stable over the years.
 
-It is worth noticing a huge drop in **vehicle theft** after 2005. According to [this article](https://www.eastbaytimes.com/2007/02/16/car-thefts-decrease-statewide/); "law enforcement officers across the state have employed new technologies to fight car theft." That could be an explanation for the drop and the reason why the drop has been stable since.
+It is worth noticing a huge drop in **vehicle theft** after 2005. According to [this article](https://www.eastbaytimes.com/2007/02/16/car-thefts-decrease-statewide/) (quote); "law enforcement officers across the state have employed new technologies to fight car theft." That could be an explanation for the drop and the reason why the drop has been stable since.
 
 Another observation worth noticing is how the corona pandemic in 2020 may have influenced the different kinds of crimes. There is a huge drop in **theft** but a big rice in **burglary** for instance.
 
@@ -53,7 +53,7 @@ To identify key hotspots for crime, particularly **Larceny/Theft**, since we jus
 </div>
 
 
-Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area. [Another explanation for the drastically decrease in theft could be that in 2015 San Francisco Police Department opened a new Public Safety Building in the district](https://www.sanfranciscopolice.org/stations/southern-station)
+Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area. [Another explanation for the drastically decrease in theft could be that in 2015 San Francisco Police Department opened a new Public Safety Building in the district.](https://www.sanfranciscopolice.org/stations/southern-station)
 
 [comment]: <> (It is clear to see that theft in the city has been happening over all the different districts. However, the Northern and just below the Richmond district. When investigating the map further, there are parks located in these areas. Also, at the Mount Sutro Open Space Reserve and at Glen Canyon Park the theft rate seems to have dropped.)
 
