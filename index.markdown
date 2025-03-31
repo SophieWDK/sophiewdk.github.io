@@ -24,6 +24,14 @@ Taking all this information into account, through three key visualizations, we w
 
 These insights will help us understand how crime has adapted to changing law enforcement strategies, economic conditions, and urban development.
 
+## **Heat map**
+
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="data_analysis\heatmap.html" width="1200" height="600" style="border:none;"></iframe>
+  </div>
+</div>
+
 ## **Crime Trends Over Time**
 
 [comment]: <> (Crime in San Francisco has undergone a noticeable shift in recent years. While overall crime dropped 28% since 2006, this decline masks a significant geographical redistribution. Traditional hotspots such as **Union Square** and **Tenderloin** saw intensified policing efforts, pushing criminal activity into newer areas such as **SoMa** and **Mission Bay**.) 
