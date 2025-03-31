@@ -10,7 +10,7 @@ title: Home
 
 San Francisco, a city celebrated for its technological innovation and cultural vibrancy, has long grappled with crime challenges that evolve alongside its urban landscape. From property crimes in tourist-heavy districts to organized retail thefts, criminal activity has continuously shifted over the years.
 
-This analysis uses official crime records from the [San Francisco Police Department](https://www.sanfranciscopolice.org/your-sfpd/crime-data-reports) (SFPD), covering **January 2003 to January 2025** with over 2.5 million incidents. The dataset comes from [SF OpenData](https://datasf.org/opendata/), the city's official data portal, and includes:
+This analysis uses official crime records from the [San Francisco Police Department](https://www.sanfranciscopolice.org/your-sfpd/crime-data-reports) (SFPD), covering **January 2003 to February 2025** with over 2.5 million incidents. The dataset comes from [SF OpenData](https://datasf.org/opendata/), the city's official data portal, and includes:
 
 - **Crime categories**: Larceny/theft, assault, burglary, drug offens, etc.
 - **Temporal data**: Exact dates and times of reports.
@@ -46,19 +46,16 @@ A sharp decline in recorded crimes is evident after 2014, which may be attribute
 
 ## **Where is Crime Concentrated**  
 
-To identify key hotspots for crime, particularly **Larceny/Theft**, since we just learned this is the leading crime in San Francisco. We examine a heatmap of recorded incidents across different districts from 2003 to 2025. 
+To identify key hotspots for crime, particularly **Larceny/Theft**, since we just learned this is the leading crime in San Francisco. We examine a heatmap of recorded incidents across different districts from 2003 to 2025. [The heatmap](file:///C:/Users/Bruger/OneDrive%20-%20Danmarks%20Tekniske%20Universitet/Kandidat/Social%20Data%20Analysis%20and%20Visualization/sophiewdk.github.io/data_analysis/heatmap.html) shows that theft is happening all over the city but not at parks. It would be more interesting to have a further look at the changes in the different districts throughout the years. The visualization of a different kind of heatmap below highlights areas where theft is most concentrated.
 
-[comment]: <> (The visualization below highlights areas where these crimes are most concentrated.)
-
-<div style="display: flex; justify-content: center;">
-  <div class="image-container">
-    <iframe src="data_analysis\heatmap.html" width="1200" height="600" style="border:none;"></iframe>
-  </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="figures/heatmap_years.png" style="width: 100%">
 </div>
 
-[comment]: <> (Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area. [Another explanation for the drastically decrease in theft could be that in 2015 San Francisco Police Department opened a new Public Safety Building in the district](https://www.sanfranciscopolice.org/stations/southern-station))
 
-It is clear to see that theft in the city has been happening over all the different districts. However, the Northern and just below the Richmond district. When investigating the map further, there are parks located in these areas. Also, at the Mount Sutro Open Space Reserve and at Glen Canyon Park the theft rate seems to have dropped.
+Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area. [Another explanation for the drastically decrease in theft could be that in 2015 San Francisco Police Department opened a new Public Safety Building in the district](https://www.sanfranciscopolice.org/stations/southern-station)
+
+[comment]: <> (It is clear to see that theft in the city has been happening over all the different districts. However, the Northern and just below the Richmond district. When investigating the map further, there are parks located in these areas. Also, at the Mount Sutro Open Space Reserve and at Glen Canyon Park the theft rate seems to have dropped.)
 
 Crime hotspots are not static. As police efforts ramp up in certain areas, crime often relocates to regions with less oversight. The emergence of new retail and residential developments in SoMa and Mission Bay may also be influencing crime patterns, making hotspot tracking an essential tool for both law enforcement and urban planners.
 
