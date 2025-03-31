@@ -38,7 +38,7 @@ The visualization below presents the total number of reported crimes per year fr
 
 From this, we observe that non-violent crimes, such as **Larceny/Theft**, dominate the crime landscape, with peaks reaching nearly 48,000 reported cases in a single year. In contrast, violent crimes, including **weapon-related offenses** and **vandalism**, have remained relatively stable over the years.
 
-It is worth noticing a huge drop in **vehicle theft** after 2005. According to a article ['Car thefts decrease statewide'](https://www.eastbaytimes.com/2007/02/16/car-thefts-decrease-statewide/) (quote); "law enforcement officers across the state have employed new technologies to fight car theft." That could be an explanation for the drop and the reason why the drop has been stable since.
+It is worth noticing a huge drop in **vehicle theft** after 2005. According to an article ['Car thefts decrease statewide'](https://www.eastbaytimes.com/2007/02/16/car-thefts-decrease-statewide/) (quote); "law enforcement officers across the state have employed new technologies to fight car theft." That could be an explanation for the drop and the reason why the drop has been stable since.
 
 Another observation worth noticing is how the corona pandemic in 2020 may have influenced the different kinds of crimes. There is a huge drop in **theft** but a big rice in **burglary** for instance.
 
