@@ -30,7 +30,7 @@ These insights will help us understand how crime has adapted to changing law enf
 
 [comment]: <> (Another notable shift is the adaptation of criminals to technological and economic changes. The rise of organized retail theft rings and a 400% increase in catalytic converter thefts (2020-2024) illustrate how modern crime has evolved to exploit new vulnerabilities.)
 
-The visualization below presents the total number of reported crimes per year from 2003 to 2025, identifying peak years for major crime categories. The y-axes are the crime count and they have different indices.
+The visualization below presents the total number of reported crimes per year from 2003 to 2025, identifying peak years for major crime categories. The y-axes are the crime count and they have different scaling.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="figures/crimes_trend.png" style="width: 150%">
