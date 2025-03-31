@@ -67,15 +67,6 @@ We will now explore the distribution of different crime types interactively.
 This visualization is not just a chart—it is a temporal fingerprint of criminal activity across San Francisco. By normalizing crime frequencies across categories, we uncover striking patterns that challenge conventional wisdom:
 
 <div style="display: flex; justify-content: center;">
-  <div style="width: auto;">
-    {% include_relative html_templates/bokeh_hourly_sf_crime_patterns.html %}
-  </div>
-</div>
-
-<b> </b>
-<b> </b>
-
-<div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\bokeh_hourly_sf_crime_patterns.html" width="1200" height="600" style="border:none;"></iframe>
   </div>
