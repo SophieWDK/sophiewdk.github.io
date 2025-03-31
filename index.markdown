@@ -75,6 +75,15 @@ This visualization is not just a chart—it is a temporal fingerprint of crimina
 <b> </b>
 <b> </b>
 
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="html_templates\bokeh_hourly_sf_crime_patterns.html" width="1000" height="600" style="border:none;"></iframe>
+  </div>
+</div>
+
+<b> </b>
+<b> </b>
+
 **Observations from the plot**
 - Midday Danger: Despite common fears of late-night crime, the most frequent time for larceny and theft is actually around noon—when crowds are thickest in commercial districts.
 - Twilight Crime Surge: Violent crimes tend to increase between 5 PM and 8 PM, coinciding with rush hour and increased pedestrian traffic.
