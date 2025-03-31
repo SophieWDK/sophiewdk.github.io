@@ -38,7 +38,7 @@ The visualization below presents the total number of reported crimes per year fr
 
 From this, we observe that non-violent crimes, such as **Larceny/Theft**, dominate the crime landscape, with peaks reaching nearly 48,000 reported cases in a single year. In contrast, violent crimes, including **weapon-related offenses** and **vandalism**, have remained relatively stable over the years.
 
-It is worth noticing a huge drop in **vehicle theft** after 2005. According to an article ['Car thefts decrease statewide'](https://www.eastbaytimes.com/2007/02/16/car-thefts-decrease-statewide/) (quote); "law enforcement officers across the state have employed new technologies to fight car theft." That could be an explanation for the drop and the reason why the drop has been stable since.
+It is worth noticing a huge drop in **vehicle theft** after 2005. According to th article [Car thefts decrease statewide](https://www.eastbaytimes.com/2007/02/16/car-thefts-decrease-statewide/); "law enforcement officers across the state have employed new technologies to fight car theft." That could be an explanation for the drop and the reason why the drop has been stable since.
 
 Another observation worth noticing is how the corona pandemic in 2020 may have influenced the different kinds of crimes. There is a huge drop in **theft** but a big rice in **burglary** for instance.
 
@@ -53,7 +53,7 @@ To identify key hotspots for crime, particularly **Larceny/Theft**, since we jus
 </div>
 
 
-Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area. [Another explanation for the drastically decrease in theft could be that in 2015 San Francisco Police Department opened a new Public Safety Building in the district.](https://www.sanfranciscopolice.org/stations/southern-station)
+Three districts **Central**, **Northern**, and **Southern** stand out as the most affected by theft-related crimes. Notably, the Southern district has experienced a noticeable decline in theft incidents since 2017, suggesting potential shifts in law enforcement strategies or demographic changes in the area. Another explanation for the drastically decrease in theft could be that in [2015 San Francisco Police Department](https://www.sanfranciscopolice.org/stations/southern-station) opened a new Public Safety Building in the district.
 
 [comment]: <> (It is clear to see that theft in the city has been happening over all the different districts. However, the Northern and just below the Richmond district. When investigating the map further, there are parks located in these areas. Also, at the Mount Sutro Open Space Reserve and at Glen Canyon Park the theft rate seems to have dropped.)
 
@@ -76,7 +76,7 @@ This visualization is not just a chart—it is a temporal fingerprint of crimina
 
 **Observations from the plot**
 - Midday Danger: Despite common fears of late-night crime, the most frequent time for larceny and theft is actually around noon—when crowds are thickest in commercial districts.
-- Twilight Crime Surge: Violent crimes tend to increase between 5 PM and 8 PM, coinciding with rush hour and increased pedestrian traffic.
+- Twilight Crime wave: Violent crimes tend to increase between 5 PM and 8 PM, coinciding with rush hour and increased pedestrian traffic.
 - Night Shift Offenders: Drug-related offens and violent crimes peak between 8 PM and 11 PM, but taper off by early morning.
 
 These patterns reveal how different types of crime operate on distinct schedules. According to a 2024 report from the [San Francisco Police Department Crime Analysis Unit](https://www.sanfranciscopolice.org/sites/default/files/2024-10/SFPD_CrimeReport_Sept2024_20241015.pdf), organized larceny groups tend to target high-traffic areas during midday hours, while violent crimes such as assaults peak during evening hours. [A study by the Public Policy Institute of California](https://www.ppic.org/publication/crime-trends-in-california/?utm_source=chatgpt.com) also confirms that urban crime tends to follow predictable daily patterns, influenced by foot traffic and economic activity.
@@ -90,8 +90,3 @@ By analyzing these crime patterns, businesses can adjust security measures, resi
 Crime in San Francisco is far from static. While overall crime has declined over the past two decades, it has shifted locations, changed tactics, and evolved with the times. Larceny remains the dominant crime, peaking in busy districts at midday, while violent crimes follow a more nocturnal rhythm.
 
 Understanding these patterns is crucial not just for law enforcement but for city planners, businesses, and residents who want to stay ahead of emerging crime trends. By leveraging historical data, we can make San Francisco safer and more resilient in the face of its ever-changing urban challenges.
-
-### Behind-The-Scenes Notebook
-
-This webpage is a project built upon extensive research, data analysis, and coding.
-Click the following link to explore a detailed interactive notebook that offers a behind-the-scenes look: [View the notebook](https://github.com/SophieWDK/sophiewdk.github.io/blob/main/data_analysis/behind_the_scenes_notebook.ipynb).
