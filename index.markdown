@@ -67,7 +67,7 @@ This visualization is not just a chart—it is a temporal fingerprint of crimina
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\bokeh_hourly_sf_crime_patterns.html" width="1000" height="400" style="border:none;"></iframe>
+    <iframe src="html_templates\bokeh_hourly_sf_crime_patterns.html" width="1200" height="600" style="border:none;"></iframe>
   </div>
 </div>
 
